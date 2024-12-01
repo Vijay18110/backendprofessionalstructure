@@ -1,0 +1,14 @@
+{
+  "name": "backendprofessionalstructure",
+  "version": "1.0.0",
+  "description": "backend structure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "vijay raj",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
